@@ -1,0 +1,11 @@
+Collected the dataset by using Web Scrapping. We used a web scrapping tool "Octoparse".
+Octoparse is a no-code web scraping tool that allows users to extract data from websites easily without needing programming skills. It provides a user-friendly interface where you can point and click to set up your scraping workflow. Octoparse can be used to extract information from complex websites and automate the data collection process.
+
+Key Features:
+No-code interface: Allows non-programmers to create data extraction workflows.
+Automated Scraping: You can schedule scraping tasks to run automatically at set intervals.
+Data Export: Extracted data can be exported into multiple formats like Excel, CSV, and databases.
+Cloud Scraping: It provides cloud-based scraping so that tasks can run even when your local machine is off.
+
+The link of the software use dis given below:
+https://www.octoparse.com/
