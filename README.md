@@ -59,8 +59,8 @@ o	Deep Learning: Used Long Short-Term Memory (LSTM), SimpleRNN, Bidirectional LS
 2.	Training: Train the chosen model using the labelled data.
 3.	Evaluation: Evaluate the model's performance on a separate validation dataset to ensure its accuracy. evaluate their performance on the testing data using metrics like accuracy, precision, recall, and F1-score. 
 
+![image](https://github.com/user-attachments/assets/721d8d27-7f35-4ef8-9a67-609d71580dbe)
 
-![image](https://github.com/user-attachments/assets/ced018a5-cad7-46f4-a83b-98da195e1692)
 
 ### Conclusion:
 •	We've received 1200 positive reviews on EVs in India, indicating a predominantly favorable sentiment among users. 
