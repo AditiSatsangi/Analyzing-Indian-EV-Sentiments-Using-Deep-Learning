@@ -62,6 +62,7 @@ o	Deep Learning: Used Long Short-Term Memory (LSTM), SimpleRNN, Bidirectional LS
 ![image](https://github.com/user-attachments/assets/e06c76cc-81ab-4120-b4a1-c5cf6d9f48be)
 
 <br>
+
 ## Conclusion:
 •	We've received 1200 positive reviews on EVs in India, indicating a predominantly favorable sentiment among users. 
 •	Sentiment analysis reveals a notable shift over time. Initially, in 2019, there was some negativity surrounding EVs, but as time progressed, this sentiment diminished significantly, transitioning into overwhelmingly positive reviews by 2023. 
