@@ -59,7 +59,7 @@ o	Deep Learning: Used Long Short-Term Memory (LSTM), SimpleRNN, Bidirectional LS
 2.	Training: Train the chosen model using the labelled data.
 3.	Evaluation: Evaluate the model's performance on a separate validation dataset to ensure its accuracy. evaluate their performance on the testing data using metrics like accuracy, precision, recall, and F1-score. 
 
-![image](https://github.com/user-attachments/assets/721d8d27-7f35-4ef8-9a67-609d71580dbe)
+![image](https://github.com/user-attachments/assets/e06c76cc-81ab-4120-b4a1-c5cf6d9f48be)
 
 
 ### Conclusion:
