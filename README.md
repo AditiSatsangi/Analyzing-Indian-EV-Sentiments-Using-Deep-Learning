@@ -61,8 +61,8 @@ o	Deep Learning: Used Long Short-Term Memory (LSTM), SimpleRNN, Bidirectional LS
 
 ![image](https://github.com/user-attachments/assets/e06c76cc-81ab-4120-b4a1-c5cf6d9f48be)
 
-
-### Conclusion:
+<br>
+## Conclusion:
 •	We've received 1200 positive reviews on EVs in India, indicating a predominantly favorable sentiment among users. 
 •	Sentiment analysis reveals a notable shift over time. Initially, in 2019, there was some negativity surrounding EVs, but as time progressed, this sentiment diminished significantly, transitioning into overwhelmingly positive reviews by 2023. 
 •	Among various deep learning models compared, both CNN and CNN-LSTM models exhibited the highest accuracies at 97.16%. Given their strong performance on our dataset, utilizing deep learning for analysis appears advantageous. 
