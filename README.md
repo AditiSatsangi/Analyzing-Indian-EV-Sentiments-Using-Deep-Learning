@@ -37,10 +37,6 @@ Dataset consists of  2107 reviews after data cleaning.
 ![image](https://github.com/user-attachments/assets/c2eabb6f-479f-4198-897a-c1020c5878ab)
  Fig 1. Word Cloud by Sentiment
 
-![image](https://github.com/user-attachments/assets/4196de60-4a3a-40e9-aa17-1a63cacb825b)
-                                           Fig 2. Top Positive Reviewers 
-
-
 ![image](https://github.com/user-attachments/assets/72ca63c5-0e1a-46e0-bf0e-3cb05b5aa424)
 Fig4. Sentiment over Time
 
