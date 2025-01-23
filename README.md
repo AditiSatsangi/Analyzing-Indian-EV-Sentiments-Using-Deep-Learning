@@ -40,9 +40,6 @@ Dataset consists of  2107 reviews after data cleaning.
 ![image](https://github.com/user-attachments/assets/4196de60-4a3a-40e9-aa17-1a63cacb825b)
                                            Fig 2. Top Positive Reviewers 
 
- ![image](https://github.com/user-attachments/assets/c4c280b1-2051-4b8b-80a5-87d9ee68e55f)
-Fig 3. Sentiment after Analysing the dataset
-
 
 ![image](https://github.com/user-attachments/assets/72ca63c5-0e1a-46e0-bf0e-3cb05b5aa424)
 Fig4. Sentiment over Time
@@ -58,8 +55,6 @@ o	Machine Learning: Used Naive Bayes.
 o	Deep Learning: Used Long Short-Term Memory (LSTM), SimpleRNN, Bidirectional LSTM, CNN and CNN-LSTM.
 2.	Training: Train the chosen model using the labelled data.
 3.	Evaluation: Evaluate the model's performance on a separate validation dataset to ensure its accuracy. evaluate their performance on the testing data using metrics like accuracy, precision, recall, and F1-score. 
-
-![image](https://github.com/user-attachments/assets/e06c76cc-81ab-4120-b4a1-c5cf6d9f48be)
 
 <br>
 
